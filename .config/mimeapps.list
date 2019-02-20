@@ -1,0 +1,11 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-XEHFXZ.desktop
+x-scheme-handler/https=userapp-Firefox-XEHFXZ.desktop
+x-scheme-handler/ftp=userapp-Firefox-XEHFXZ.desktop
+x-scheme-handler/chrome=userapp-Firefox-XEHFXZ.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-XEHFXZ.desktop;
+x-scheme-handler/https=userapp-Firefox-XEHFXZ.desktop;
+x-scheme-handler/ftp=userapp-Firefox-XEHFXZ.desktop;
+x-scheme-handler/chrome=userapp-Firefox-XEHFXZ.desktop;
